@@ -1,5 +1,5 @@
 {
-  "name": "Error-Handling-in-Node.js",
+  "name": "Promises-in-Node.js-Async",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/Error-Handling-in-Node.js.git"
+    "url": "git+https://github.com/acciojob/Promises-in-Node.js-Async.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/Error-Handling-in-Node.js/issues"
+    "url": "https://github.com/acciojob/Promises-in-Node.js-Async/issues"
   },
-  "homepage": "https://github.com/acciojob/Error-Handling-in-Node.js#readme",
+  "homepage": "https://github.com/acciojob/Promises-in-Node.js-Async#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
